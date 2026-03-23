@@ -26,3 +26,17 @@ public class Pedido {
     }
 
 }
+
+/*
+
+Imagine que o Pedido é um Carrinho de Compras.
+
+A List<ItemPedido> itens é o espaço vazio dentro do carrinho.
+
+O método adicionarItem é o seu braço pegando um produto da prateleira.
+
+O item (parâmetro) é o pacote de Café que você está segurando.
+
+O this.itens.add(item) é o ato de soltar o café dentro do carrinho.
+
+*/
